@@ -21,4 +21,4 @@ A PowerShell script collection for working with [Ballons Translator](https://git
 气泡翻译器json转lptxt脚本，图片尺寸自动读取，用于气泡翻译器自动打标的场景
 
 ### Load png into PSD.js
-把气泡翻译器的png掩膜和psd混合，用于大模型给漫画涂白。
+把气泡翻译器的png掩膜和psd混合，用于大模型给漫画涂白。将jsx脚本拖入PS窗口使用
