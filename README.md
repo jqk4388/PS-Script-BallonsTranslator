@@ -22,3 +22,6 @@ A PowerShell script collection for working with [Ballons Translator](https://git
 
 ### Load png into PSD.js
 把气泡翻译器的png掩膜和psd混合，用于大模型给漫画涂白。将jsx脚本拖入PS窗口使用
+
+### Load tif into PSD.js
+把tif图片和psd涂白混合，用于检查涂白区域是否正确。
